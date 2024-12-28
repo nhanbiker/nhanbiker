@@ -1,0 +1,211 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html >
+    <head>
+      <meta charset='utf-8'/>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+    <title>nhân biker~</title>
+    <link href='https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/465068127_928058905894881_8621943307041011929_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=bv5opMtxlXYQ7kNvgHFzdaZ&_nc_oc=AdhFRA_0-4djsoLEQjxXxhi66orgPKnYQ5z2f30Q4MsDE2rYtsmuxpouhpCrBS41sjQ&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=ARFE6eyGrwhEcp08itWR-uh&oh=00_AYAYo8q8djpxIgawWLKTCjy4xVhYJmnEtNJHkGUQzQ0OlQ&oe=677599B5' rel='icon'/>
+    
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'/>
+    <link href='https://dev.htpn.vn/upload/style%20(1).css' rel='stylesheet'/>
+    <link href='https://dev.htpn.vn/upload/style-toast-cutee.css' rel='stylesheet'/>
+        <b:skin>
+            <style>
+
+.modal-content {
+background-color: transparent !important;
+}
+.commentlist {
+	clear: both;
+}
+.td-title-modal{
+  font-size: 18px !important;
+  color: #ea00ff;
+  font-weight: 800;
+  text-shadow: 2px 2px 15px rgb(255, 255, 255);
+}
+.td-button-modal {
+  border: 2px solid rgb(255, 255, 255) !important;
+  color: white !important;
+  background-color: transparent !important;
+  box-shadow: 0 0 20px white !important;
+  border-radius: 15px !important;
+}
+.td-modal {
+  border-radius: 20px !important;
+  border-style: double;
+  border-color: #ccc;
+  border-width: 2px !important;
+  animation-name: modalstyle;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+  box-shadow: 0 0 15px white;
+  background-image: url('https://i.pinimg.com/564x/13/48/d8/1348d872e86b54f056c41bd0d05a3d9d.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+    </head>
+    <!-- Bắt đầu phần hiển thị -->
+    <body>
+    
+      <!-- Refresh loading animation -->
+        
+    <div class='main'>
+      <div class='left' onclick='left()'>
+        <div class='left-main'>
+          <div class='logo' style='background-image: url(https://files.catbox.moe/462szh.png);'>
+            <img alt='Khung viền' src='./happy-birthday-main/index.html' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
+          </div>
+          <div class='left-div left-des'>
+            <div class='left-div-item'>
+              <svg class='icon' height='20px' p-id='1478' t='1705773709627' version='1.1' viewBox='0 0 1024 1024' width='20px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M512 249.976471c-99.388235 0-180.705882 81.317647-180.705882 180.705882s81.317647 180.705882 180.705882 180.705882 180.705882-81.317647 180.705882-180.705882-81.317647-180.705882-180.705882-180.705882z m0 301.17647c-66.258824 0-120.470588-54.211765-120.470588-120.470588s54.211765-120.470588 120.470588-120.470588 120.470588 54.211765 120.470588 120.470588-54.211765 120.470588-120.470588 120.470588z' fill='#2c2c2c' p-id='1479'/>
+                <path d='M512 39.152941c-216.847059 0-391.529412 174.682353-391.529412 391.529412 0 349.364706 391.529412 572.235294 391.529412 572.235294s391.529412-222.870588 391.529412-572.235294c0-216.847059-174.682353-391.529412-391.529412-391.529412z m0 891.482353C424.658824 873.411765 180.705882 686.682353 180.705882 430.682353c0-183.717647 147.576471-331.294118 331.294118-331.294118s331.294118 147.576471 331.294118 331.294118c0 256-243.952941 442.729412-331.294118 499.952941z' fill='#2c2c2c' p-id='1480'/>
+              </svg> <em> Đăk nông ,việt nam</em>
+            </div>
+            <div class='left-div-item'>
+              <svg fill='#ffffff' height='20px' id='Capa_1' stroke='#ffffff' version='1.1' viewBox='0 0 471.701 471.701' width='20px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+                  <g>
+                    <path d='M433.601,67.001c-24.7-24.7-57.4-38.2-92.3-38.2s-67.7,13.6-92.4,38.3l-12.9,12.9l-13.1-13.1 c-24.7-24.7-57.6-38.4-92.5-38.4c-34.8,0-67.6,13.6-92.2,38.2c-24.7,24.7-38.3,57.5-38.2,92.4c0,34.9,13.7,67.6,38.4,92.3 l187.8,187.8c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-3.9l188.2-187.5c24.7-24.7,38.3-57.5,38.3-92.4 C471.801,124.501,458.301,91.701,433.601,67.001z M414.401,232.701l-178.7,178l-178.3-178.3c-19.6-19.6-30.4-45.6-30.4-73.3 s10.7-53.7,30.3-73.2c19.5-19.5,45.5-30.3,73.1-30.3c27.7,0,53.8,10.8,73.4,30.4l22.6,22.6c5.3,5.3,13.8,5.3,19.1,0l22.4-22.4 c19.6-19.6,45.7-30.4,73.3-30.4c27.6,0,53.6,10.8,73.2,30.3c19.6,19.6,30.3,45.6,30.3,73.3 C444.801,187.101,434.001,213.101,414.401,232.701z'/>
+                  </g>
+                </g>
+              </svg> <em>Single</em>
+            </div>
+            <div class='left-div-item'>
+              <svg fill='#ffffff' height='15px' stroke='#ffffff' version='1.1' viewBox='0 0 14 14' width='15px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+                  <g fill='none' fill-rule='evenodd' id='Page-1' stroke='none' stroke-width='1'>
+                    <g fill='#ffffff' id='Dribbble-Light-Preview' transform='translate(-343.000000, -3642.000000)'>
+                      <g id='icons' transform='translate(56.000000, 160.000000)'>
+                        <path d='M287,3494.02134 L287,3496 L288.992883,3496 C288.992883,3494.90679 288.101068,3494.02134 287,3494.02134 M287,3489.91464 L287,3491.89329 C288.992883,3491.89329 291.035587,3493.87195 291.035587,3495.85061 L293.02847,3495.85061 C293.02847,3492.88262 289.989324,3489.91464 287,3489.91464 M287,3482 L287,3483.97866 C293.975089,3483.97866 299.007117,3488.92531 299.007117,3495.85061 L301,3495.85061 C301,3487.93598 294.97153,3482 287,3482 M297.014235,3495.85061 L295.021352,3495.85061 C295.021352,3490.90396 290.985765,3487.93598 287,3487.93598 L287,3485.95732 C292.978648,3485.95732 297.014235,3489.91464 297.014235,3495.85061' id='wifi-[#ffffff]'/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </svg> <em>9,9999.99 followers</em>
+            </div>
+            <div class='left-div-item'>
+              <svg class='icon' height='20px' p-id='2474' t='1705773906032' version='1.1' viewBox='0 0 1024 1024' width='20px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M729.6 234.666667H294.4V157.866667a51.2 51.2 0 0 1 51.2-51.2h332.8a51.2 51.2 0 0 1 51.2 51.2v76.8z m179.2 51.2a51.2 51.2 0 0 1 51.2 51.2v512a51.2 51.2 0 0 1-51.2 51.2H115.2a51.2 51.2 0 0 1-51.2-51.2v-512a51.2 51.2 0 0 1 51.2-51.2h793.557333z m-768 172.032c0 16.384 13.312 29.696 29.696 29.696h683.008a29.696 29.696 0 1 0 0-59.392H170.410667a29.696 29.696 0 0 0-29.696 29.696z m252.416 118.784c0 16.384 13.312 29.696 29.696 29.696h178.176a29.696 29.696 0 1 0 0-59.392H422.912a29.738667 29.738667 0 0 0-29.696 29.696z' fill='#666666' p-id='2475'/>
+              </svg><em>DevTeam.Com</em>
+            </div>
+          </div>
+          <!-- <div class="left-div left-tag"><div class="left-tag-item">Tag</div></div> -->
+          <!-- <div class="left-div left-time"><ul id="line"><li><div class="focus"></div><div>2024-1-27</div><div>Stay tuned</div></li><li><div class="focus"></div><div>2023-08-3</div><div>Established wusteam.com</div></li></ul></div> -->
+        </div>
+      </div>
+      <div class='right'>
+        <header>
+          <div class='index-logo' style='background-image: url(https://files.catbox.moe/462szh.png);'>
+            <img alt='Khung viền' src='https://files.catbox.moe/7k3isz.png' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
+          </div>
+          <div class='welcome'>Hello, I&#39;m <span class='gradientText'>NHÂNBIKER</span>
+          </div>
+          <div class='description'>👦 <span class='purpleText'> Full Stack</span> Developer </div>
+          <div class='description'>📝 <span class='purpleText textBackground'>Tôi có kinh nghiệm làm việc với nhiều chương trình lập trình ngôn ngữ như Python, Java và JavaScript <br>Tôi luôn tìm kiếm cách tối ưu hóa nguồn mã hóa để tạo ra các sản phẩm hiệu quả và bảo trì dễ dàng.</span> </div>
+          <div class='iconContainer'>
+            <a class='iconItem' href='https://www.facebook.com/Nhan06012007' target='_blank'>
+              <svg fill='#000000' height='22px' version='1.1' viewBox='0 0 48 48' width='22px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+                  <g fill='none' fill-rule='evenodd' id='Icons' stroke='none' stroke-width='1'>
+                    <g fill='#4460A0' id='Color-' transform='translate(-200.000000, -160.000000)'>
+                      <path d='M225.638355,208 L202.649232,208 C201.185673,208 200,206.813592 200,205.350603 L200,162.649211 C200,161.18585 201.185859,160 202.649232,160 L245.350955,160 C246.813955,160 248,161.18585 248,162.649211 L248,205.350603 C248,206.813778 246.813769,208 245.350955,208 L233.119305,208 L233.119305,189.411755 L239.358521,189.411755 L240.292755,182.167586 L233.119305,182.167586 L233.119305,177.542641 C233.119305,175.445287 233.701712,174.01601 236.70929,174.01601 L240.545311,174.014333 L240.545311,167.535091 C239.881886,167.446808 237.604784,167.24957 234.955552,167.24957 C229.424834,167.24957 225.638355,170.625526 225.638355,176.825209 L225.638355,182.167586 L219.383122,182.167586 L219.383122,189.411755 L225.638355,189.411755 L225.638355,208 L225.638355,208 Z' id='Facebook'/>
+                    </g>
+                  </g>
+                </g>
+              </svg>
+              <div class='iconTip'>Facebook</div>
+            </a>
+            <!---->
+            <a class='iconItem' href='https://github.com/nhanbiker' target='_blank'>
+              <svg class='icon' height='22px' p-id='2487' t='1704870335945' version='1.1' viewBox='0 0 1024 1024' width='22px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M511.6 76.3C264.3 76.2 64 276.4 64 523.5 64 718.9 189.3 885 363.8 946c23.5 5.9 19.9-10.8 19.9-22.2v-77.5c-135.7 15.9-141.2-73.9-150.3-88.9C215 726 171.5 718 184.5 703c30.9-15.9 62.4 4 98.9 57.9 26.4 39.1 77.9 32.5 104 26 5.7-23.5 17.9-44.5 34.7-60.8-140.6-25.2-199.2-111-199.2-213 0-49.5 16.3-95 48.3-131.7-20.4-60.5 1.9-112.3 4.9-120 58.1-5.2 118.5 41.6 123.2 45.3 33-8.9 70.7-13.6 112.9-13.6 42.4 0 80.2 4.9 113.5 13.9 11.3-8.6 67.3-48.8 121.3-43.9 2.9 7.7 24.7 58.3 5.5 118 32.4 36.8 48.9 82.7 48.9 132.3 0 102.2-59 188.1-200 212.9 23.5 23.2 38.1 55.4 38.1 91v112.5c0.8 9 0 17.9 15 17.9 177.1-59.7 304.6-227 304.6-424.1 0-247.2-200.4-447.3-447.5-447.3z' fill='#000000' p-id='2488'/>
+              </svg>
+              <div class='iconTip'>Github</div>
+            </a>
+            <!---->
+            <a class='iconItem' href='https://www.tiktok.com/@fbnhanbiker' target='_blank'>
+              <svg fill='#000000' height='22px' viewBox='0 0 24 24' width='22px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+                  <path d='M19.589 6.686a4.793 4.793 0 0 1-3.77-4.245V2h-3.445v13.672a2.896 2.896 0 0 1-5.201 1.743l-.002-.001.002.001a2.895 2.895 0 0 1 3.183-4.51v-3.5a6.329 6.329 0 0 0-5.394 10.692 6.33 6.33 0 0 0 10.857-4.424V8.687a8.182 8.182 0 0 0 4.773 1.526V6.79a4.831 4.831 0 0 1-1.003-.104z'/>
+                </g>
+              </svg>
+              <div class='iconTip'>Tiktok</div>
+            </a>
+            <!---->
+            <a class='iconItem' href='https://www.youtube.com/@nhanbiker.4263' target='_blank'>
+              <svg fill='#000000' height='22px' version='1.1' viewBox='0 -7 48 48' width='22px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+                  <g fill='none' fill-rule='evenodd' id='Icons' stroke='none' stroke-width='1'>
+                    <g fill='#CE1312' id='Color-' transform='translate(-200.000000, -368.000000)'>
+                      <path d='M219.044,391.269916 L219.0425,377.687742 L232.0115,384.502244 L219.044,391.269916 Z M247.52,375.334163 C247.52,375.334163 247.0505,372.003199 245.612,370.536366 C243.7865,368.610299 241.7405,368.601235 240.803,368.489448 C234.086,368 224.0105,368 224.0105,368 L223.9895,368 C223.9895,368 213.914,368 207.197,368.489448 C206.258,368.601235 204.2135,368.610299 202.3865,370.536366 C200.948,372.003199 200.48,375.334163 200.48,375.334163 C200.48,375.334163 200,379.246723 200,383.157773 L200,386.82561 C200,390.73817 200.48,394.64922 200.48,394.64922 C200.48,394.64922 200.948,397.980184 202.3865,399.447016 C204.2135,401.373084 206.612,401.312658 207.68,401.513574 C211.52,401.885191 224,402 224,402 C224,402 234.086,401.984894 240.803,401.495446 C241.7405,401.382148 243.7865,401.373084 245.612,399.447016 C247.0505,397.980184 247.52,394.64922 247.52,394.64922 C247.52,394.64922 248,390.73817 248,386.82561 L248,383.157773 C248,379.246723 247.52,375.334163 247.52,375.334163 L247.52,375.334163 Z' id='Youtube'/>
+                    </g>
+                  </g>
+                </g>
+              </svg>
+              <div class='iconTip'>Tube</div>
+            </a>
+            <!---->
+            <a class='switch' href='javascript:void(0)'>
+              <div class='onoffswitch'>
+<input checked='checked' class='onoffswitch-checkbox' id='myonoffswitch' name='onoffswitch' type='checkbox'>
+                <label class='onoffswitch-label' for='myonoffswitch'>
+                  <span class='onoffswitch-inner'/>
+                  <span class='onoffswitch-switch'/>
+                </label>
+                </input>
+                </div>
+            </a>
+          </div>
+          <div class='hiv'>
+            <img id='hiv' src='https://dev.htpn.vn/upload/snake-Light.svg'/>
+          </div>
+        </header>
+        <content>
+         
+          <div class='title'>
+            <svg class='icon' height='26px' p-id='7833' t='1705257823317' version='1.1' viewBox='0 0 1024 1024' width='26px' xmlns='http://www.w3.org/2000/svg'>
+              <path d='' fill='#000000' p-id='7834'/>
+            </svg> Skills
+          </div>
+          <div class='skill'>
+            <img alt='' id='skillPc' src='https://dev.htpn.vn/upload/skillPc.svg' srcset=''/>
+            <img alt='' id='skillWap' src='https://dev.htpn.vn/upload/skillWap.svg' srcset=''/>
+          </div>
+        </content>
+      </div>
+    </div>
+    <footer> Convert by nhân dev &#169; 2024 | <a>All Rights Reserved</a>
+    </footer>
+    <div class='tc'>
+      <div class='tc-main' onclick=''>
+        <img alt='' class='tc-img' src='' srcset=''/>
+      </div>
+    </div>
+      <script src='https://dev.htpn.vn/upload/script-v01.js'/>
+  <script src='https://dev.htpn.vn/upload/cute-alert-v1.js'/>
+        <b:section id='nhândev'/>
+        <audio  controls autoplay>
+           <source src="./nhanmusic.mp3">
+           </audio>
+    </body>
+    <!-- Kết thúc phần hiển thị -->
+</html>
+fontendhl.xml
+
+Đang hiển thị fontendhl.xml.
